@@ -1,0 +1,71 @@
+Query 1
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000245
+tTrue: 0.973352
+--------------------------------------------------------------
+Query 2
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.001256
+tTrue: 0.656691
+--------------------------------------------------------------
+Query 3
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000262
+tTrue: 0.65803
+--------------------------------------------------------------
+Query 4
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.00074
+tTrue: 0.713963
+--------------------------------------------------------------
+Query 5
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000313
+tTrue: 0.635823
+--------------------------------------------------------------
+Query 6
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000125
+tTrue: 0.632927
+--------------------------------------------------------------
+Query 7
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000183
+tTrue: 0.776071
+--------------------------------------------------------------
+Query 8
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000182
+tTrue: 0.65124
+--------------------------------------------------------------
+Query 9
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000261
+tTrue: 0.641808
+--------------------------------------------------------------
+Query 10
+Nearest neighbour-1: 13711
+distanceLSH: 4.29497e+09
+distanceTrue: 4.29497e+09
+tLSH: 0.000595
+tTrue: 0.689458
+--------------------------------------------------------------
+MAF: 1
